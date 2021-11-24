@@ -15,7 +15,7 @@ if(!empty($_POST['sbtn'])){
     $result = mysqli_query($conn, $querys) or die ( mysqli_error());
 
     if($result)
-        header('Location: index.php');
+        header('Location: /../index.php');
 }
 
 ?>
