@@ -12,7 +12,7 @@ $row = mysqli_fetch_assoc($result);
 ?>
 
 <div class="container">
-    <button type="button" class="btn btn-secondary"><a href="/../index.php">Zurück zur Übersicht</a></button>
+    <a href="/../index.php"><button class='btn btn-secondary mt-3 mb-3'>Zurück zur Übersicht</button></a>
 <form>
     <div class="mb-3">
         <label class="form-label">Name</label>
