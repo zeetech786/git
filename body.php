@@ -28,8 +28,8 @@
                         <td>".$row["income"]."</td>
                         <td>
                         <a href='git/edit.php?id={$row['id']}'><button class='btn btn-secondary' >edit</button></a>
-                        <a href='http://www.google.de'><button class='btn btn-danger' >delete</button></a>
-                        <a href='http://www.google.de'><button class='btn btn-info'>show</button></a>
+                        <a href='#'><button class='btn btn-danger' >delete</button></a>
+                        <a href='#'><button class='btn btn-info'>show</button></a>
                         </td>
 
                     </tr>";
