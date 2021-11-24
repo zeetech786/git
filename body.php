@@ -9,7 +9,7 @@
             <th>Name</th>
             <th>E-Mail</th>
             <th>Phone</th>
-            <th>Income</th>
+            <th>Postleitzahl</th>
             <th>Action</th>
         </tr>
         </thead>
