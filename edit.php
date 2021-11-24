@@ -22,7 +22,7 @@ $row = mysqli_fetch_assoc($result);
         <input type="text" class="form-control" value="<?php echo $row['email']; ?>">
     </div>
 
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-success">Update</button>
 </form>
 
 </div>
