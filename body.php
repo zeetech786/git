@@ -1,6 +1,6 @@
 <div class="container">
     <div class="alert alert-info">
-        Display with Jquery Datatables
+        Display with Jquery Datatables USER CRUD
     </div>
     <table id="myTable" class="table table-striped  table-bordered">
         <thead>
