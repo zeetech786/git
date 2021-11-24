@@ -2,7 +2,7 @@
     <div class="alert alert-info">
         Display with Jquery Datatables USER CRUD
     </div>
-    <button type="button" class="btn btn-primary">ADD NEW USER</button>
+    <button type="button" class="btn btn-primary mb-3">ADD NEW USER</button>
     <table id="myTable" class="table table-striped  table-bordered">
         <thead>
         <tr>
