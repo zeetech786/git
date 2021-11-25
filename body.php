@@ -3,6 +3,8 @@
         Display with JQUERY Datatables USER CRUD
     </div>
     <button type="button" class="btn btn-primary mb-3">ADD NEW USER</button>
+
+    <a href="export.php"><button class="btn btn-success float-right">Export Data to Exel</button></a>
     <table id="myTable" class="table table-striped  table-bordered">
         <thead>
         <tr>
